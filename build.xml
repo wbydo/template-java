@@ -4,6 +4,8 @@
   <property name="cls_dir" value="class" />
   <property name="src_dir" value="src/main" />
   <property name="Main" value="Main" />
+
+  <!-- パッケージ名 -->
   <property name="package" value="hoge" />
 
   <target name="run" depends="compile">
