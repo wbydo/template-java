@@ -1,2 +1,2 @@
-# java_template
+# template_java
 java + antでさくっとプログラム動かすためのテンプレート
