@@ -1,2 +1,2 @@
 # template_java
-java + antでさくっとプログラム動かすためのテンプレート
+java + gradleでさくっとプログラム動かすためのテンプレート
