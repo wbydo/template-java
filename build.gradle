@@ -2,7 +2,3 @@ apply plugin: 'java'
 apply plugin: 'application'
 
 mainClassName = 'hoge.Main'
-
-task wrapper(type: Wrapper) {
-    gradleVersion = '4.10.2'
-}
