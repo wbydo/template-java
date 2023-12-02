@@ -1,2 +1,17 @@
 # template_java
-java + gradleでさくっとプログラム動かすためのテンプレート
+
+java + gradle でさくっとプログラム動かすためのテンプレート
+
+## Usage
+
+```
+gradle run
+```
+
+## Memo
+
+```
+// ~/.gradle/gradle.properties
+
+org.gradle.warning.mode=all
+```
